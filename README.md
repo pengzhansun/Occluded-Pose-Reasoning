@@ -1,13 +1,24 @@
 ## Occluded POse Reasoning with masked auto-encoding Transformers (OPORT)
 
-This code base is the pytorch implementation of the paper:  
-**Counterfactual Debiasing Inference for Compositional Action Recognition, ACM Multimedia, 2021**  
-*Pengzhan Sun, *Bo Wu, Xunsong Li, Wen Li, Lixin Duan, Chuang Gan
+CS6244 project by Pengzhan Sun and Yunsong Wang. 
 
+- [Misc](#misc)
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Citation](#citation)
+
+## Misc
+
+I'd like to say thank you to:
+Yunsong for his help with ;
+Kerui
+Rongyu
+Qiuxia
+
+Slides
+
+Weekly summary and daily report
 
 
 ## Introduction
