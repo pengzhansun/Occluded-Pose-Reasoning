@@ -32,7 +32,12 @@ pip install -r requirements.txt
 If you use this code repository in your research, please cite this paper.
 
 ```
-@inproceedings{
+@inproceedings{sun2024rethinking,
+  title={Rethinking Visibility in Human Pose Estimation: Occluded Pose Reasoning via Transformers},
+  author={Sun, Pengzhan and Gu, Kerui and Wang, Yunsong and Yang, Linlin and Yao, Angela},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={5903--5912},
+  year={2024}
 }
 ```
 
