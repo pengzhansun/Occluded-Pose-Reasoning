@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Checkpoint
+[Checkpoint](https://drive.google.com/drive/folders/1WlbhN_3FVBkcQijuoTRbzFYB7UUMLuMc?usp=sharing)
 
 ## Citation
 If you use this code repository in your research, please cite this paper.
