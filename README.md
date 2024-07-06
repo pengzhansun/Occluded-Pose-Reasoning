@@ -5,18 +5,9 @@ This code base is the pytorch implementation of the paper:
 Pengzhan Sun, Kerui Gu, Yunsong Wang, Linlin Yang, Angela Yao
 
 
-- [Todo](#todo)
-- [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Citation](#citation)
-
-## Todo
-1. Clean the codebase
-2. Write a Readme for training and inference scripts
-
-
-## Introduction
 
 
 ## Requirements
